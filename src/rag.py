@@ -7,7 +7,7 @@ actual chunks that were used.
 
 The LLM is explicitly instructed to answer ONLY from the provided context
 and to say so clearly when the answer isn't present, so the system never
-silently falls back on knowledge.
+silently falls back on knowledge.RAG Stands for retrieval augmented generation
 """
 
 from typing import List, Dict, Optional
